@@ -1,4 +1,4 @@
-# AutomationWork-Repo (JUnit and Page factory)
+# AutomationWork-Repo (Selenium, Java, JUnit, Page factory, ExtenReport)
 	#Add all files from Libraries folder into your Java Build path.
 	#Run PlaceOrder.java as JUnit test.
 	#Report will be generated under TestReports folder.
